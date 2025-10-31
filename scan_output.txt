@@ -1,0 +1,1204 @@
+[2025-10-30T23:11:07.610865] [INFO] ================================================================================
+[2025-10-30T23:11:07.611025] [INFO] Starting NIP-90 DVM Scanner
+[2025-10-30T23:11:07.611064] [INFO] ================================================================================
+[2025-10-30T23:11:07.611237] [INFO] Generated Nostr keys - Public key: npub1cxac8jp9jpjv99uv2fk4hucg5cgx3tljcm4dc763d4dd2ugyj4esmuvas4
+[2025-10-30T23:11:07.611284] [INFO] Private key (nsec): nsec1kemasvzv7rqqlfqxvug30gkvtwwy2d2gwc4caj7q22rck7eeazvsw5769j
+[2025-10-30T23:11:07.611529] [INFO] Adding 10 relays...
+[2025-10-30T23:11:07.611760] [INFO] Added relay: wss://relay.damus.io
+[2025-10-30T23:11:07.611889] [INFO] Added relay: wss://relay.nostr.band
+[2025-10-30T23:11:07.612008] [INFO] Added relay: wss://nos.lol
+[2025-10-30T23:11:07.612125] [INFO] Added relay: wss://relay.snort.social
+[2025-10-30T23:11:07.612235] [INFO] Added relay: wss://nostr.wine
+[2025-10-30T23:11:07.612361] [INFO] Added relay: wss://relay.primal.net
+[2025-10-30T23:11:07.612476] [INFO] Added relay: wss://nostr-pub.wellorder.net
+[2025-10-30T23:11:07.612585] [INFO] Added relay: wss://relay.nostr.bg
+[2025-10-30T23:11:07.612693] [INFO] Added relay: wss://nostr.mom
+[2025-10-30T23:11:07.612842] [INFO] Added relay: wss://relay.current.fyi
+[2025-10-30T23:11:07.612865] [INFO] Connecting to relays...
+[2025-10-30T23:11:09.618146] [INFO] Loaded 0 existing vendors from previous scans
+[2025-10-30T23:11:09.618903] [INFO] Creating filters for NIP-90 events...
+[2025-10-30T23:11:09.621538] [INFO] Subscribing to NIP-90 DVM announcements (kind 31990)...
+[2025-10-30T23:11:19.626549] [INFO] Found 1076 DVM announcement events
+[2025-10-30T23:11:19.629988] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.630753] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.631435] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.632119] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.632793] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.633514] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.634051] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.634526] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.634985] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.635520] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.635932] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.636327] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.636822] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.637351] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.637755] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.638073] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.638505] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.638901] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.639267] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.639822] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.640179] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.640547] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.640931] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.641267] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.641587] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.641983] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.642595] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.643137] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.643548] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.643879] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.644161] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.644629] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.644969] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.645195] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.645405] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.645614] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.645892] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.646096] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.646292] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.646458] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.646620] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.646779] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.646937] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.647093] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.647232] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.647370] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.647505] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.647661] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.647815] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.647943] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.648073] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.648204] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.648332] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.648461] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.648592] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.648720] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.648848] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.649002] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.649153] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.649328] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.649480] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.649634] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.649790] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.649960] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.650116] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.650247] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.650375] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.650504] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.650662] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.650793] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.650922] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.651056] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.651184] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.651313] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.651465] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.651673] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.651823] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.651944] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.652064] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.652189] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.652292] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.652420] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.652522] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.652646] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.652746] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.652848] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.652948] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.653072] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.653179] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.653283] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.653383] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.653484] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.653585] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.653686] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.653809] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.653910] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.654012] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.654114] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.654214] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.654321] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.654428] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.654535] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.654640] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.654746] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.654851] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.654963] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.655064] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.655164] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.655285] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.655385] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.655485] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.655607] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.655708] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.655809] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.655942] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.656047] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.656147] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.656248] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.656348] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.656447] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.656546] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.656646] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.656748] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.656847] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.656947] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.657047] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.657146] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.657246] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.657346] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.657445] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.657544] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.657644] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.657744] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.657843] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.657944] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.658044] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.658143] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.658230] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.658318] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.658410] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.658516] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.658620] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.658744] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.658831] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.658922] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.659031] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.659142] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.659254] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.659359] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.659466] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.659577] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.659682] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.659792] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.659900] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.660041] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.660149] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.660260] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.660370] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.660480] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.660587] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.660696] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.660805] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.660913] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.661021] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.661131] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.661245] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.661360] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.661471] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.661562] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.661654] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.661745] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.661839] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.661950] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.662045] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.662133] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.662220] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.662308] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.662395] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.662505] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.662592] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.662679] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.662765] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.662869] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.662957] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.663061] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.663342] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.663434] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.663538] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.663625] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.663711] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.663796] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.663881] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.663971] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.664082] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.664167] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.664265] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.664347] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.664427] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.664525] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.664624] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.664720] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.664818] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.664919] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.665016] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.665114] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.665215] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.665317] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.665416] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.665492] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.665590] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.665676] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.665759] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.665840] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.665918] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.665999] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.666081] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.666179] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.666276] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.666367] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.666472] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.666569] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.666655] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.666737] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.666837] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.666929] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.667023] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.667117] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.667211] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.667307] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.667401] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.667495] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.667589] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.667709] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.667806] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.667907] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.668000] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.668078] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.668154] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.668230] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.668307] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.668383] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.668481] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.668562] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.668642] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.668723] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.668804] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.668900] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.668996] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.669103] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.669189] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.669269] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.669364] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.669460] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.669542] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.669618] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.669713] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.669790] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.669868] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.669948] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.670024] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.670096] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.670175] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.670266] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.670344] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.670419] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.670494] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.670571] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.670645] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.670720] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.670814] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.670891] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.670971] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.671071] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.671157] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.671231] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.671324] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.671398] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.671471] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.671561] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.671651] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.671725] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.671801] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.671894] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.671980] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.672069] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.672155] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.672243] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.672328] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.672414] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.672500] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.672589] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.672675] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.672764] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.672853] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.672945] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.673036] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.673131] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.673224] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.673300] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.673396] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.673487] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.673563] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.673652] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.673738] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.673815] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.673894] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.673971] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.674063] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.674153] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.674244] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.674322] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.674439] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.674519] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.674596] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.674693] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.674764] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.674839] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.674911] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.674982] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.675054] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.675139] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.675225] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.675296] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.675367] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.675438] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.675510] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.675582] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.675668] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.675743] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.675831] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.675919] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.675991] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.676058] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.676125] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.676192] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.676274] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.676360] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.676433] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.676519] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.676590] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.676663] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.676749] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.676820] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.676891] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.676960] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.677047] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.677133] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.677217] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.677300] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.677371] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.677441] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.677548] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.677636] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.677722] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.677807] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.677893] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.677978] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.678065] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.678148] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.678236] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.678308] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.678379] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.678450] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.678521] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.678605] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.678677] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.678761] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.678832] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.678917] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.678999] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.679079] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.679161] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.679229] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.679298] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.679379] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.679446] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.679514] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.679581] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.679663] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.679747] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.679813] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.679880] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.679964] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.680034] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.680104] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.680177] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.680263] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.680349] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.680432] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.680517] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.680618] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.680702] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.680782] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.680867] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.680938] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.681008] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.681097] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.681166] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.681237] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.681312] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.681378] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.681447] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.681516] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.681582] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.681652] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.681718] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.681798] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.681869] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.681935] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.682001] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.682073] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.682136] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.682202] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.682283] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.682351] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.682434] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.682524] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.682605] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.682686] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.682767] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.682833] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.682901] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.682981] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.683060] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.683143] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.683222] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.683301] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.683380] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.683460] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.683548] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.683618] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.683686] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.683750] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.683818] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.683884] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.683949] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.684027] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.684107] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.684174] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.684254] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.684323] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.684391] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.684461] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.684526] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.684589] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.684665] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.684741] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.684803] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.684865] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.684928] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.684993] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.685055] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.685118] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.685180] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.685242] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.685303] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.685365] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.685430] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.685496] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.685558] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.685620] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.685682] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.685757] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.685822] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.685888] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.685969] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.686037] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.686103] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.686168] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.686256] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.686326] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.686396] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.686459] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.686526] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.686591] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.686659] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.686724] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.686791] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.686853] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.686916] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.686992] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.687054] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.687118] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.687180] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.687246] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.687308] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.687371] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.687433] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.687495] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.687562] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.687627] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.687690] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.687753] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.687818] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.687881] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.687943] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.688005] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.688081] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.688162] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.688229] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.688305] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.688383] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.688446] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.688508] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.688570] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.688636] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.688698] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.688761] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.688837] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.688901] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.688960] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.689022] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.689084] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.689148] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.689224] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.689300] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.689364] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.689432] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.689494] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.689556] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.689617] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.689682] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.689757] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.689832] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.689906] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.689981] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.690059] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.690134] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.690208] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.690270] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.690344] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.690406] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.690469] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.690543] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.690617] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.690678] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.690752] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.690819] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.690895] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.690954] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.691014] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.691075] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.691135] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.691195] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.691271] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.691332] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.691392] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.691451] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.691529] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.691592] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.691652] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.691711] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.691771] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.691844] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.691916] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.691985] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.692059] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.692120] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.692181] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.692243] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.692304] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.692366] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.692428] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.692490] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.692553] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.692628] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.692691] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.692753] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.692816] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.692878] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.692939] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.693014] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.693077] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.693157] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.693232] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.693308] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.693383] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.693446] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.693511] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.693585] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.693659] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.693723] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.693796] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.693856] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.693916] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.693975] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.694035] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.694137] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.694213] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.694277] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.694341] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.694406] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.694470] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.694534] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.694610] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.694685] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.694749] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.694812] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.694876] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.694937] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.695002] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.695066] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.695129] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.695193] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.695255] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.695320] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.695383] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.695447] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.695510] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.695574] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.695638] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.695703] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.695769] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.695845] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.695909] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.695986] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.696056] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.696133] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.696210] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.696284] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.696363] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.696440] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.696506] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.696570] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.696634] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.696698] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.696773] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.696848] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.696914] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.696980] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.697045] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.697109] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.697177] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.697243] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.697318] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.697391] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.697453] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.697523] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.697586] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.697649] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.697715] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.697781] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.697856] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.697920] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.697995] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.698059] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.698133] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.698199] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.698273] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.698340] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.698406] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.698472] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.698537] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.698603] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.698669] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.698735] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.698801] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.698866] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.698933] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.698999] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.699064] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.699126] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.699190] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.699252] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.699323] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.699390] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.699455] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.699520] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.699585] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.699646] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.699708] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.699769] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.699829] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.699889] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.699956] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.700025] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.700085] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.700190] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.700314] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.700393] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.700474] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.700543] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.700623] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.700690] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.700758] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.700823] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.700889] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.700954] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.701016] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.701081] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.701145] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.701208] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.701286] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.701348] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.701410] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.701478] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.701541] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.701603] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.701666] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.701733] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.701795] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.701859] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.701922] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.701987] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.702051] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.702117] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.702180] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.702246] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.702308] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.702371] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.702433] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.702496] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.702558] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.702620] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.702694] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.702757] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.702816] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.702878] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.702939] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.703001] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.703064] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.703128] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.703190] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.703252] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.703314] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.703376] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.703440] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.703502] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.703565] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.703628] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.703690] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.703752] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.703813] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.703876] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.703937] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.704012] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.704086] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.704148] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.704222] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.704284] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.704345] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.704407] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.704468] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.704529] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.704590] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.704664] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.704726] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.704788] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.704850] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.704912] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.704984] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.705046] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.705118] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.705180] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.705241] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.705303] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.705364] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.705425] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.705498] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.705557] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.705630] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.705701] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.705771] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.705830] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.705888] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.705947] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.706006] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.706066] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.706124] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.706181] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.706237] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.706295] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.706352] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.706411] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.706473] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.706532] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.706590] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.706662] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.706724] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.706783] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.706846] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.706905] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.706965] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.707036] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.707106] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.707164] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.707235] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.707294] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.707365] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.707423] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.707493] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.707552] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.707622] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.707692] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.707751] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.707810] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.707869] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.707939] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.708011] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.708081] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.708140] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.708199] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.708259] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.708318] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.708376] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.708446] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.708505] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.708580] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.708639] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.708699] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.708760] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.708819] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.708879] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.708938] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.709008] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.709068] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.709128] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.709188] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.709247] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.709306] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.709376] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.709435] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.709506] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.709564] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.709621] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.709690] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.709747] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.709805] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.709863] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.709920] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.709977] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.710034] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.710091] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.710163] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.710235] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.710304] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.710363] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.710420] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.710477] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.710534] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.710591] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.710649] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.710705] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.710762] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.710820] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.710877] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.710934] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.710991] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.711049] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.711107] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.711164] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.711220] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.711277] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.711336] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.711392] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.711449] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.711511] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.711566] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.711621] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.711676] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.711731] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.711801] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.711871] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.711933] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.711991] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.712050] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.712120] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.712190] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.712247] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.712305] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.712362] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.712419] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.712476] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.712534] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.712592] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.712650] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.712707] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.712765] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.712833] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.712892] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.712953] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.713022] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.713079] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.713138] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.713196] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.713254] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.713313] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.713371] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.713429] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.713488] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.713547] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.713604] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.713662] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.713731] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.713800] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.713858] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.713917] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.713974] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.714032] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.714089] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.714144] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.714201] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.714259] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.714317] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.714375] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.714434] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.714493] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.714551] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.714610] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.714667] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.714725] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.714782] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.714840] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.714898] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.714954] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.715012] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.715069] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.715126] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.715184] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.715241] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.715299] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.715357] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.715414] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.715471] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.715528] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.715585] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.715653] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.715711] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.715778] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.715845] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.715914] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.715979] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.716039] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.716095] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.716163] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.716231] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.716298] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.716359] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.716414] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.716468] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.716523] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.716577] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.716630] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.716685] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.716738] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.716805] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.716870] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.716936] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.717003] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.717067] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.717133] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.717200] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.717271] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.717335] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.717400] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.717473] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.717538] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.717603] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.717667] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.717734] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.717799] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.717864] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.717928] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.717991] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.718056] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.718109] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.718162] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.718216] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.718270] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.718324] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.718378] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.718445] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.718509] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.718564] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.718628] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.718700] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.718764] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.718817] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.718882] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.718946] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.719000] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.719067] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.719131] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.719185] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.719249] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.719303] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.719359] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.719414] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.719479] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.719540] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.719600] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.719656] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.719714] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.719773] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.719831] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.719891] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.719947] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.720004] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.720060] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.720117] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.720175] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.720231] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.720287] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.720344] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.720403] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.720461] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.720519] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.720577] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.720635] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.720693] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.720751] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.720811] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.720869] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.720938] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.720996] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.721055] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.721114] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.721172] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.721244] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.721302] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.721362] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.721421] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.721477] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.721537] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.721613] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.721672] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.721731] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.721788] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.721848] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.721914] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.721980] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.722047] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.722117] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.722186] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.722244] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.722302] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.722362] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.722420] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.722479] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.722537] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.722596] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.722655] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.722726] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.722785] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.722855] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.722914] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.722973] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.723045] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.723104] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.723176] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.723236] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.723308] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.723369] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.723442] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.723504] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.723563] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.723637] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.723708] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.723767] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.723838] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.723899] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.723959] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.724019] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.724090] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.724162] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.724222] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.724294] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.724365] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.724435] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.724505] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.724574] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.724644] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.724714] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.724784] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.724854] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.724925] [ERROR] Error processing announcement event: 'Tags' object is not iterable
+[2025-10-30T23:11:19.726697] [INFO] Scanning for recent DVM result events (kinds 6000-6009)...
+[2025-10-30T23:11:29.730877] [INFO] Found 165 events for filter
+[2025-10-30T23:11:29.732022] [INFO] Found DVM result from: e92020f8086260ec... (kind 6000)
+[2025-10-30T23:11:29.732523] [INFO] Found DVM result from: e92020f8086260ec... (kind 6000)
+[2025-10-30T23:11:29.732943] [INFO] Found DVM result from: e92020f8086260ec... (kind 6000)
+[2025-10-30T23:11:29.733336] [INFO] Found DVM result from: e92020f8086260ec... (kind 6000)
+[2025-10-30T23:11:29.733710] [INFO] Found DVM result from: e92020f8086260ec... (kind 6000)
+[2025-10-30T23:11:29.734067] [INFO] Found DVM result from: e92020f8086260ec... (kind 6000)
+[2025-10-30T23:11:29.734406] [INFO] Found DVM result from: e92020f8086260ec... (kind 6000)
+[2025-10-30T23:11:29.734736] [INFO] Found DVM result from: e92020f8086260ec... (kind 6000)
+[2025-10-30T23:11:29.735056] [INFO] Found DVM result from: e92020f8086260ec... (kind 6000)
+[2025-10-30T23:11:29.735404] [INFO] Found DVM result from: e92020f8086260ec... (kind 6000)
+[2025-10-30T23:11:29.735735] [INFO] Found DVM result from: e92020f8086260ec... (kind 6000)
+[2025-10-30T23:11:29.736059] [INFO] Found DVM result from: e92020f8086260ec... (kind 6000)
+[2025-10-30T23:11:29.736366] [INFO] Found DVM result from: e92020f8086260ec... (kind 6000)
+[2025-10-30T23:11:29.736662] [INFO] Found DVM result from: e92020f8086260ec... (kind 6000)
+[2025-10-30T23:11:29.737018] [INFO] Found DVM result from: e92020f8086260ec... (kind 6000)
+[2025-10-30T23:11:29.737304] [INFO] Found DVM result from: e92020f8086260ec... (kind 6000)
+[2025-10-30T23:11:29.737593] [INFO] Found DVM result from: e92020f8086260ec... (kind 6000)
+[2025-10-30T23:11:29.737864] [INFO] Found DVM result from: e92020f8086260ec... (kind 6000)
+[2025-10-30T23:11:29.738127] [INFO] Found DVM result from: e92020f8086260ec... (kind 6000)
+[2025-10-30T23:11:29.738384] [INFO] Found DVM result from: e92020f8086260ec... (kind 6000)
+[2025-10-30T23:11:29.738666] [INFO] Found DVM result from: e92020f8086260ec... (kind 6000)
+[2025-10-30T23:11:29.738965] [INFO] Found DVM result from: e92020f8086260ec... (kind 6000)
+[2025-10-30T23:11:29.739438] [INFO] Found DVM result from: e92020f8086260ec... (kind 6000)
+[2025-10-30T23:11:29.739829] [INFO] Found DVM result from: e92020f8086260ec... (kind 6000)
+[2025-10-30T23:11:29.740134] [INFO] Found DVM result from: e92020f8086260ec... (kind 6000)
+[2025-10-30T23:11:29.740477] [INFO] Found DVM result from: 1a6bd2378a41cfc0... (kind 6000)
+[2025-10-30T23:11:29.740780] [INFO] Found DVM result from: 19af35767d85508b... (kind 6000)
+[2025-10-30T23:11:29.741079] [INFO] Found DVM result from: 7484507cb87240c4... (kind 6000)
+[2025-10-30T23:11:29.741363] [INFO] Found DVM result from: b69034c88da4fcb2... (kind 6000)
+[2025-10-30T23:11:29.741643] [INFO] Found DVM result from: 1ba210b2226579d0... (kind 6000)
+[2025-10-30T23:11:29.741913] [INFO] Found DVM result from: f56e00c566be55be... (kind 6000)
+[2025-10-30T23:11:29.742171] [INFO] Found DVM result from: eb13e567a5ba5cf0... (kind 6000)
+[2025-10-30T23:11:29.742420] [INFO] Found DVM result from: b0d5b0bd59199348... (kind 6000)
+[2025-10-30T23:11:29.742685] [INFO] Found DVM result from: c130e54663a66ad1... (kind 6000)
+[2025-10-30T23:11:29.743025] [INFO] Found DVM result from: 85ee942d0bee8d0f... (kind 6000)
+[2025-10-30T23:11:29.743367] [INFO] Found DVM result from: a7f5e22732493416... (kind 6000)
+[2025-10-30T23:11:29.743686] [INFO] Found DVM result from: 5e003c3b25623a57... (kind 6000)
+[2025-10-30T23:11:29.743988] [INFO] Found DVM result from: a871e1896169abc9... (kind 6000)
+[2025-10-30T23:11:29.744282] [INFO] Found DVM result from: 0b14a5967ac570c3... (kind 6000)
+[2025-10-30T23:11:29.744581] [INFO] Found DVM result from: f361a986c907e040... (kind 6000)
+[2025-10-30T23:11:29.744869] [INFO] Found DVM result from: f47121cd783802e6... (kind 6000)
+[2025-10-30T23:11:29.745123] [INFO] Found DVM result from: a6dda51cbb25779c... (kind 6000)
+[2025-10-30T23:11:29.745364] [INFO] Found DVM result from: 190a04d4c7dfb997... (kind 6000)
+[2025-10-30T23:11:29.745772] [INFO] Found DVM result from: a6dda51cbb25779c... (kind 6000)
+[2025-10-30T23:11:29.746137] [INFO] Found DVM result from: 190a04d4c7dfb997... (kind 6000)
+[2025-10-30T23:11:29.746396] [INFO] Found DVM result from: a64b1bdec5bb90ed... (kind 6000)
+[2025-10-30T23:11:29.746592] [INFO] Found DVM result from: a64b1bdec5bb90ed... (kind 6000)
+[2025-10-30T23:11:29.746780] [INFO] Found DVM result from: a64b1bdec5bb90ed... (kind 6000)
+[2025-10-30T23:11:29.746963] [INFO] Found DVM result from: a64b1bdec5bb90ed... (kind 6000)
+[2025-10-30T23:11:29.747144] [INFO] Found DVM result from: a64b1bdec5bb90ed... (kind 6000)
+[2025-10-30T23:11:29.747321] [INFO] Found DVM result from: a64b1bdec5bb90ed... (kind 6000)
+[2025-10-30T23:11:29.747497] [INFO] Found DVM result from: a64b1bdec5bb90ed... (kind 6000)
+[2025-10-30T23:11:29.747674] [INFO] Found DVM result from: a64b1bdec5bb90ed... (kind 6000)
+[2025-10-30T23:11:29.747864] [INFO] Found DVM result from: 0b2f05a537f45f60... (kind 6000)
+[2025-10-30T23:11:29.748050] [INFO] Found DVM result from: 0b2f05a537f45f60... (kind 6000)
+[2025-10-30T23:11:29.748227] [INFO] Found DVM result from: a6dda51cbb25779c... (kind 6000)
+[2025-10-30T23:11:29.748403] [INFO] Found DVM result from: a64b1bdec5bb90ed... (kind 6000)
+[2025-10-30T23:11:29.748581] [INFO] Found DVM result from: 190a04d4c7dfb997... (kind 6000)
+[2025-10-30T23:11:29.748757] [INFO] Found DVM result from: a6dda51cbb25779c... (kind 6000)
+[2025-10-30T23:11:29.748969] [INFO] Found DVM result from: e9d3a2a29607235e... (kind 6000)
+[2025-10-30T23:11:29.749146] [INFO] Found DVM result from: e9d3a2a29607235e... (kind 6000)
+[2025-10-30T23:11:29.749317] [INFO] Found DVM result from: e9d3a2a29607235e... (kind 6000)
+[2025-10-30T23:11:29.749486] [INFO] Found DVM result from: e9d3a2a29607235e... (kind 6000)
+[2025-10-30T23:11:29.749633] [INFO] Found DVM result from: a64b1bdec5bb90ed... (kind 6000)
+[2025-10-30T23:11:29.749782] [INFO] Found DVM result from: 190a04d4c7dfb997... (kind 6000)
+[2025-10-30T23:11:29.749931] [INFO] Found DVM result from: 190a04d4c7dfb997... (kind 6000)
+[2025-10-30T23:11:29.750082] [INFO] Found DVM result from: 190a04d4c7dfb997... (kind 6000)
+[2025-10-30T23:11:29.750230] [INFO] Found DVM result from: 190a04d4c7dfb997... (kind 6000)
+[2025-10-30T23:11:29.750378] [INFO] Found DVM result from: 190a04d4c7dfb997... (kind 6000)
+[2025-10-30T23:11:29.750526] [INFO] Found DVM result from: 190a04d4c7dfb997... (kind 6000)
+[2025-10-30T23:11:29.750674] [INFO] Found DVM result from: 190a04d4c7dfb997... (kind 6000)
+[2025-10-30T23:11:29.750820] [INFO] Found DVM result from: 190a04d4c7dfb997... (kind 6000)
+[2025-10-30T23:11:29.750968] [INFO] Found DVM result from: 190a04d4c7dfb997... (kind 6000)
+[2025-10-30T23:11:29.751114] [INFO] Found DVM result from: 190a04d4c7dfb997... (kind 6000)
+[2025-10-30T23:11:29.751259] [INFO] Found DVM result from: 190a04d4c7dfb997... (kind 6000)
+[2025-10-30T23:11:29.751429] [INFO] Found DVM result from: 190a04d4c7dfb997... (kind 6000)
+[2025-10-30T23:11:29.751583] [INFO] Found DVM result from: a6dda51cbb25779c... (kind 6000)
+[2025-10-30T23:11:29.751733] [INFO] Found DVM result from: 190a04d4c7dfb997... (kind 6000)
+[2025-10-30T23:11:29.751881] [INFO] Found DVM result from: 190a04d4c7dfb997... (kind 6000)
+[2025-10-30T23:11:29.752026] [INFO] Found DVM result from: a6dda51cbb25779c... (kind 6000)
+[2025-10-30T23:11:29.752175] [INFO] Found DVM result from: 190a04d4c7dfb997... (kind 6000)
+[2025-10-30T23:11:29.752319] [INFO] Found DVM result from: 190a04d4c7dfb997... (kind 6000)
+[2025-10-30T23:11:29.752464] [INFO] Found DVM result from: a64b1bdec5bb90ed... (kind 6000)
+[2025-10-30T23:11:29.752611] [INFO] Found DVM result from: 190a04d4c7dfb997... (kind 6000)
+[2025-10-30T23:11:29.752758] [INFO] Found DVM result from: a64b1bdec5bb90ed... (kind 6000)
+[2025-10-30T23:11:29.752904] [INFO] Found DVM result from: a64b1bdec5bb90ed... (kind 6000)
+[2025-10-30T23:11:29.753051] [INFO] Found DVM result from: a64b1bdec5bb90ed... (kind 6000)
+[2025-10-30T23:11:29.753197] [INFO] Found DVM result from: a64b1bdec5bb90ed... (kind 6000)
+[2025-10-30T23:11:29.753344] [INFO] Found DVM result from: a64b1bdec5bb90ed... (kind 6000)
+[2025-10-30T23:11:29.753489] [INFO] Found DVM result from: a64b1bdec5bb90ed... (kind 6000)
+[2025-10-30T23:11:29.753615] [INFO] Found DVM result from: a64b1bdec5bb90ed... (kind 6000)
+[2025-10-30T23:11:29.753738] [INFO] Found DVM result from: a64b1bdec5bb90ed... (kind 6000)
+[2025-10-30T23:11:29.753867] [INFO] Found DVM result from: a64b1bdec5bb90ed... (kind 6000)
+[2025-10-30T23:11:29.753990] [INFO] Found DVM result from: a64b1bdec5bb90ed... (kind 6000)
+[2025-10-30T23:11:29.754119] [INFO] Found DVM result from: a64b1bdec5bb90ed... (kind 6000)
+[2025-10-30T23:11:29.754241] [INFO] Found DVM result from: a64b1bdec5bb90ed... (kind 6000)
+[2025-10-30T23:11:29.754365] [INFO] Found DVM result from: a64b1bdec5bb90ed... (kind 6000)
+[2025-10-30T23:11:29.754491] [INFO] Found DVM result from: a64b1bdec5bb90ed... (kind 6000)
+[2025-10-30T23:11:29.754614] [INFO] Found DVM result from: a64b1bdec5bb90ed... (kind 6000)
+[2025-10-30T23:11:29.754736] [INFO] Found DVM result from: a64b1bdec5bb90ed... (kind 6000)
+[2025-10-30T23:11:29.754859] [INFO] Found DVM result from: a64b1bdec5bb90ed... (kind 6000)
+[2025-10-30T23:11:29.754983] [INFO] Found DVM result from: a64b1bdec5bb90ed... (kind 6000)
+[2025-10-30T23:11:29.755113] [INFO] Found DVM result from: a64b1bdec5bb90ed... (kind 6000)
+[2025-10-30T23:11:29.755242] [INFO] Found DVM result from: a64b1bdec5bb90ed... (kind 6000)
+[2025-10-30T23:11:29.755370] [INFO] Found DVM result from: a64b1bdec5bb90ed... (kind 6000)
