@@ -205,3 +205,46 @@ MIT License - Use freely for research purposes
 ---
 
 **Happy DVM Hunting! 🔍⚡**
+
+## Included Research Data
+
+This repository includes initial scan data collected for research purposes:
+
+### Output Files Description
+
+#### `dvm_vendors.json` (1.4 MB)
+Complete structured database of **453 unique DVM vendors** discovered during the initial scan. Contains:
+- Full vendor profiles (npub addresses, hex pubkeys)
+- Service announcements with metadata
+- Published job results
+- Activity timestamps
+- Service capabilities and types
+- Request counts targeting each vendor
+
+#### `dvm_scan_master.log` (562 KB)
+Comprehensive verbose log of the entire scanning process containing:
+- 8,354 log entries with timestamps
+- Relay connection events
+- Event discovery notifications
+- Processing status for each vendor
+- Error messages and debugging information
+- Final statistics and summaries
+
+#### `npub_addresses.txt`
+Curated list of **453 npub addresses** (Nostr public keys in bech32 format) extracted from all discovered DVMs. One address per line for easy:
+- Import into Nostr clients
+- Profile viewing on platforms like Primal (`https://primal.net/p/NPUB_HERE`)
+- Further research and analysis
+- Vendor contact and service discovery
+
+### Research Value
+
+This initial dataset provides:
+- A snapshot of the NIP-90 DVM marketplace as of October 2025
+- Baseline data for tracking market growth
+- Identification of most active vendors (top vendor has 177 published results)
+- Service category distribution
+- Real-world examples of DVM implementations
+
+**Note**: This data is provided as a starting point for security research. The DVM landscape is rapidly evolving - run fresh scans to get current market data.
+
