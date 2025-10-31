@@ -120,11 +120,14 @@ async def scan_for_dvms():
                     "services": []
                 }
             
+            # Convert tags to list first
+            tags_list = event.tags().to_vec() if hasattr(event.tags(), 'to_vec') else list(event.tags())
+            
             announcement_data = {
                 "event_id": event.id().to_hex(),
                 "created_at": event.created_at().as_secs(),
                 "content": event.content(),
-                "tags": [[str(t) for t in tag.as_vec()] for tag in event.tags()],
+                "tags": [[str(t) for t in tag.as_vec()] for tag in tags_list],
                 "discovered_at": datetime.now().isoformat()
             }
             
@@ -132,7 +135,7 @@ async def scan_for_dvms():
             vendors[pubkey]["last_seen"] = datetime.now().isoformat()
             
             # Extract service information from tags
-            for tag in event.tags():
+            for tag in tags_list:
                 tag_vec = tag.as_vec()
                 if len(tag_vec) >= 2:
                     tag_name = str(tag_vec[0])
@@ -199,7 +202,8 @@ async def scan_for_dvms():
             
             for event in event_list:
                 # Requests are made by users, but we can see which DVMs they're targeting
-                for tag in event.tags():
+                tags_list = event.tags().to_vec() if hasattr(event.tags(), 'to_vec') else list(event.tags())
+                for tag in tags_list:
                     tag_vec = tag.as_vec()
                     if len(tag_vec) >= 2 and str(tag_vec[0]) == "p":
                         target_pubkey = str(tag_vec[1])
